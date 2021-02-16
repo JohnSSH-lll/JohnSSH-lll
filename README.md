@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋👨‍💻
+
+Sou estudante de Lic. em Ciências da Computação, atualmente no 5° semestre, e tenho interesse em back-end e desenvolvimento de jogos.
 
 <!--
 **john01t/john01t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
