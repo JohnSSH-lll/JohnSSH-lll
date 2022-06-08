@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm João Vitor</h1>
-<h3 align="center">A passionate game developer from Brasil</h3>
+<h3 align="center">Student && Gamer && Developer from Brasil</h3>
 
 - 🔭 I’m currently working on **Game Project**
 
