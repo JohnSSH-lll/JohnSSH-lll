@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm João Vitor</h1>
+<h1 align="center">Hello There, I'm João Vitor</h1>
 <h3 align="center">Student && Gamer && Developer from Brasil</h3>
 
-- 🔭 I’m currently working on **Game Project**
+- 🔭 I’m currently working on **Some Project**
 
-- 🌱 I’m currently learning **Gdscript and Javascript**
+- 🌱 I’m currently learning **Rust & Data Structures // Api & Database**
 
 - 📫 How to reach me **th3gentl3lm3nt@gmail.com** **/** **joaovitor.sshp@gmail.com**
 
