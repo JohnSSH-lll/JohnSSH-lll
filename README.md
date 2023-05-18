@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋</h1>
-<h3 align="left">  Name: João Vitor<\br>
+<h3 align="left">  Name: João Vitor</br>
                    Ocupation: Student
                    Hobbies: Reading | Games
                    </h3>
