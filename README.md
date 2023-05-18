@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="left">  Name: João Vitor</br>
-                   Ocupation: Student
+                   Ocupation: Student</br>
                    Hobbies: Reading | Games
                    </h3>
 
